@@ -1,0 +1,24 @@
+{
+  "name": "Discord-bot-Comet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "discord-player": "^4.1.4",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "node-fetch": "^2.6.1",
+    "node-opus": "^0.3.3",
+    "puppeteer": "^10.1.0",
+    "youtube-search-api": "^1.0.10"
+  }
+}
